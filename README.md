@@ -15,8 +15,10 @@ Additionally, it provides the following "standard" packages used for Bayesian in
   * gRain
   * gRim
   * bnlearn
+  * rStan
 - Python
   * PyMC3
+  * PyStan
   * BamBI
 - Julia
   * *pull requests welcome!*
