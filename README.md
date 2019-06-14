@@ -1,4 +1,4 @@
-[![Docker Build Statu](https://img.shields.io/docker/build/cdeck3r/r-bayes.svg)](https://hub.docker.com/r/cdeck3r/r-bayes/) [![Docker Pulls](https://img.shields.io/docker/pulls/cdeck3r/r-bayes.svg)](https://hub.docker.com/r/cdeck3r/r-bayes/) [![](https://images.microbadger.com/badges/image/cdeck3r/r-bayes.svg)](https://hub.docker.com/r/cdeck3r/r-bayes/) [![](https://images.microbadger.com/badges/version/cdeck3r/r-bayes.svg)](https://hub.docker.com/r/cdeck3r/r-bayes/)
+[![Docker Build Statu](https://img.shields.io/docker/build/leblancfg/jupyter-bayes.svg)](https://hub.docker.com/r/leblancfg/jupyter-bayes/) [![Docker Pulls](https://img.shields.io/docker/pulls/leblancfg/jupyter-bayes.svg)](https://hub.docker.com/r/leblancfg/jupyter-bayes/) [![](https://images.microbadger.com/badges/image/leblancfg/jupyter-bayes.svg)](https://hub.docker.com/r/leblancfg/jupyter-bayes/) [![](https://images.microbadger.com/badges/version/leblancfg/jupyter-bayes.svg)](https://hub.docker.com/r/leblancfg/jupyter-bayes/)
 
 # jupyter-bayes
 Jupyter environment made for Bayesian inference and graphical modeling.
