@@ -4,7 +4,7 @@
 Jupyter environment made for Bayesian inference and graphical modeling.
 
 ## What it Gives You
-It is based on [Jupyter Notebook Data Science Stack](https://github.com/jupyter/docker-stacks/tree/master/datascience-notebook), with the ability to perform analyses using R, Python and Julia.
+It is based on [Jupyter Notebook Data Science Stack](https://github.com/jupyter/docker-stacks/tree/master/datascience-notebook), with the ability to perform analyses using R, Python and Julia. Also based on [cdeck3r's R docker image](https://github.com/cdeck3r/r-bayes).  :heart:
 
 Additionally, it provides the following "standard" packages used for Bayesian inference:
 
