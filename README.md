@@ -32,3 +32,7 @@ docker run -it --rm -p 8888:8888 leblancfg/jupyter-bayes:latest
 ```
 
 For other startup options check out [Jupyter Notebook Data Science Stack](https://github.com/jupyter/docker-stacks/tree/master/datascience-notebook). 
+
+## Contributions Welcome!
+
+Bayesian inference is still a rapidly-moving field, and the popularity of its package ecosystem is evolving with time. Contributions welcome!
