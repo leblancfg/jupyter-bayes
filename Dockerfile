@@ -24,8 +24,8 @@ RUN Rscript /tmp/installBayes.R
 ADD requirements.txt /tmp/requirements.txt
 ADD requirements-conda.txt /tmp/requirements-conda.txt
 # Install them
-RUN conda install --file requirements-conda.txt -c conda-forge
-RUN pip install -r requirements.txt
+RUN conda install --file /tmp/conda-requirements.txt -c conda-forge --yes
+RUN pip install -r /tmp/requirements.txt
 
 
 # Switch back to default user 
