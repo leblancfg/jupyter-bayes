@@ -1,7 +1,7 @@
-source("https://bioconductor.org/biocLite.R")
-biocLite("graph")
-biocLite("RBGL")
-biocLite("Rgraphviz")
+# source("https://bioconductor.org/biocLite.R")
+# biocLite("graph")
+# biocLite("RBGL")
+# biocLite("Rgraphviz")
 
 install.packages("rjags", repos="https://cloud.r-project.org/", dependencies=NA, clean=TRUE) 
 install.packages("HydeNet", repos="https://cloud.r-project.org/", dependencies=NA, clean=TRUE) 
