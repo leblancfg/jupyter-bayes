@@ -22,7 +22,7 @@ RUN Rscript /tmp/installBayes.R
 ### Install Python packages
 # Move the files over
 ADD requirements.txt /tmp/requirements.txt
-ADD requirements-conda.txt /tmp/requirements-conda.txt
+ADD requirements-conda.txt /tmp/conda-requirements.txt
 # Install them
 RUN conda install --file /tmp/conda-requirements.txt -c conda-forge --yes
 RUN pip install -r /tmp/requirements.txt
