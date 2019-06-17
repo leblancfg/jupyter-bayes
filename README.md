@@ -44,3 +44,4 @@ Bayesian inference is still a rapidly-moving field, and the popularity of its pa
 
 ## TODO
 * [ ] Package Kruschke's essentials for [Doing Bayesian Data Analysis 2nd edition](https://sites.google.com/site/doingbayesiandataanalysis/software-installation) into the notebook workspace
+* [ ] Set up semantic versinoing for docker image tags
